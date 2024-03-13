@@ -1,1 +1,4 @@
 # OpenInspector
+
+## Mission 🎯
+OpenInspector is an open-source civil infrastructure inspection software that tackles 3D model creation, automatic damage detection, and report generation. It utilizes advanced algorithms and machine learning techniques to efficiently process images and data captured from drones and other remote sensing devices. This automation not only accelerates the inspection process but also improves the accuracy and reliability of the assessments. By detecting structural weaknesses and potential hazards in bridges, roads, and buildings, OpenInspector aids in prioritizing maintenance and repair efforts, ensuring safety, and prolonging the lifespan of critical infrastructure. Furthermore, its open-source nature fosters collaboration and innovation within the community, facilitating continuous enhancement and adaptation to emerging technologies and methodologies.
